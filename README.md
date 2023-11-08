@@ -3,7 +3,6 @@
 <h3> Ciao 🔥 I'm Stefania Pozzi  </h3>
 
 I'm an enthusiast Web3 developer and I focus mainly on <b>Smart Contract Security</b> 👮🏼. 
-
 I enjoy building 🏋️‍♀️ awesome, clean and powerful projects and putting some <b>order</b> 🧹 here and there!
 
 [![foundry](https://img.shields.io/badge/foundry-black?style=for-the-badge)](https://book.getfoundry.sh/)
