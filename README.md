@@ -5,11 +5,11 @@
 I'm an enthusiast Web3 developer and I focus mainly on <b>Smart Contract Security</b> 👮🏼. I enjoy building 🏋️‍♀️ awesome, clean and powerful projects and putting some <b>order</b> 🧹 here and there!
 
 
-
+[![chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink)](https://chain.link/)
 [![openzeppelin](https://img.shields.io/badge/openzeppelin-FAFAFB?style=for-the-badge&logo=openzeppelin)](https://www.openzeppelin.com/)
 [![alchemy](https://img.shields.io/badge/alchemy-373FF9?style=for-the-badge&logo=alchemy)](https://www.alchemy.com/)
 [![ipfs](https://img.shields.io/badge/ipfs-grey?style=for-the-badge&logo=ipfs)](ipns://ipfs.tech/)
-[![chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink)](https://chain.link/)
+
 
 [![foundry](https://img.shields.io/badge/foundry-black?style=for-the-badge)](https://book.getfoundry.sh/)
 [![hardhat](https://img.shields.io/badge/hardhat-FFF103?style=for-the-badge)](https://hardhat.org/)
