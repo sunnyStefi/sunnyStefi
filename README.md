@@ -2,7 +2,7 @@
 
 <h3> Ciao, I'm Stefania Pozzi 🇮🇹 🇪🇸 </h3>
 
-I'm an enthusiast Web3 developer and I focus mainly on <b>Smart Contract Security</b> 👮🏼. <br>
+I'm an enthusiast Web3 developer.
 I enjoy building 🏋️‍♀️ awesome, clean and powerful projects and putting some <b>order</b> 🧹 here and there!
 
 I'm using this repo as a home for my blockchain projects and also as a second brain for web3!
