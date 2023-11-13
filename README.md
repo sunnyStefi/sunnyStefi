@@ -3,9 +3,10 @@
 <h3> Ciao, I'm Stefania Pozzi 🇮🇹 🇪🇸 </h3>
 
 I'm an enthusiast Web3 developer.
+
 I enjoy building 🏋️‍♀️ awesome, clean and powerful projects and putting some <b>order</b> 🧹 here and there!
 
-I'm using this repo as a home for my blockchain projects and also as a second brain for web3!
+I'm using this repo as a home for my blockchain projects and  as a second brain for web3
 
 [![foundry](https://img.shields.io/badge/foundry-black?style=for-the-badge)](https://book.getfoundry.sh/)
 [![slither](https://img.shields.io/badge/slither-E3403F?style=for-the-badge)](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)
