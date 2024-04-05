@@ -2,6 +2,6 @@
 
 <h3> Heii Stefi here 🇮🇹 🇪🇸 </h3>
 
-I'm an enthusiast Web3 developer. I enjoy building 🏋️‍♀️ awesome, clean and powerful projects!
+I'm an aficionada Web3 developer. I enjoy building 🏋️‍♀️ awesome, clean and powerful projects!
 
-> <i>I'm not finish when I'm tired, I'm finished when I'm done. D. Goggins </i>
+> <i>I'm not finish when I'm tired, I'm finished when I'm done. <b>D. Goggins</b> </i>
